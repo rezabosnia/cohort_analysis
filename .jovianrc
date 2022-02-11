@@ -1,3 +1,7 @@
 {
-  "notebooks": {}
+  "notebooks": {
+    "cohort-analysis.ipynb": {
+      "slug": "58435ad2ba1f43919922c106358048a2"
+    }
+  }
 }
